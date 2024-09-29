@@ -31,6 +31,7 @@ color:white;
 <br>
 <div align="center" style="color:white;">
 <p>Login Success.. Welcome to home page<p>
+<br>Thank you for the visit.<br>Now you can Logout and try with wrong password</p>
 <br><a href="index.jsp">Log Out</a>
 </div>
 </body>
