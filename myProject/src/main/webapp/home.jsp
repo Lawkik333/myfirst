@@ -9,7 +9,7 @@
 <link rel="stylesheet" type="text/css" href="welcome_design.css" />
 
 </head>
-<body bgcolor="purple" onload="carousel()" >
+<body bgcolor="purple" >
 <h1 align="center" style="padding:3px; margin:3px;" >Home</h1>
 <br>
 <div align="center" style="color:white;">
