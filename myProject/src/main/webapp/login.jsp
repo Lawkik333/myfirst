@@ -4,35 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Login</title>
-<style type="text/css">
-*{
-text-align:center;
-background-color:#AAAAFF;
-}
-#ent{
-border: 1px solid black;
-max-width: fit-content;
- margin-left: auto;
-  margin-right: auto;
-  padding:3px;
-}
+<title>Login Failed</title>
 
-#sub{
-background-color:Blue;
-border-color:white;
-color:white;
-}
-input{
-background-color:white;
-border-color:blue;
-color:Black;
-}
-#msg{
-color:red;
-}
+<link rel="stylesheet" type="text/css" href="design.css" />
 
-</style>
 </head>
 <body>
 

@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+
+
+#msg{
+font-size:20px;
+border-top: 2px solid white;
+border-bottom: 2px solid white;
+padding:3px;
+margin:3px;
+}
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+ }
+
+a:hover {
+  background-color: #CC0000;
+   box-shadow:2px 2px 5px grey;
+}
+
+a:active {
+  background-color: red;
+  color:black;
+}
+
+h1{
+color:white;
+background-color:#222200;
+padding:5px;
+}
+
+.de{
+color:blue;
+font-weight:bold;
+}
+.text_div{
+background-color:#AAFFFF;
+font-weight:bold;
+border: 2px solid black;
+padding: 10px;
+}
+#con{
+
+margin:0px;
+font-style:italic;
+width:500px;
+}
+
+

@@ -4,33 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>LoginPage</title>
 
-<style type="text/css">
-*{
-text-align:center;
-background-color:#AAAAFF;
-}
-#ent{
-border: 1px solid black;
-max-width: fit-content;
- margin-left: auto;
-  margin-right: auto;
-  padding:3px;
-}
+<link rel="stylesheet" type="text/css" href="design.css"/>
 
-#sub{
-background-color:Blue;
-border-color:white;
-color:white;
-}
-input{
-background-color:white;
-border-color:blue;
-color:Black;
-}
-
-</style>
 </head>
 <body>
 
