@@ -10,11 +10,11 @@
 
 </head>
 <body>
-
+<div class="ent">
 <h3>This is Home page</h3>
 		<p id="msg">Login Failed!!<br>Wrong Username or Password</p><br>
 		<p>Please Login in to continue</p><br>
-		<div id="ent">
+		<div class="ent">
 		<form action="dashboard" method="post">
 		
 			User Name: <input type="text" name="uname"><br>
@@ -24,7 +24,7 @@
 			
 		</form>
 	</div>
-
+</div>
 
 </body>
 </html>
