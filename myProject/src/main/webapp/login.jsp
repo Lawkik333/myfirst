@@ -13,6 +13,10 @@
 <div class="ent">
 <h3>This is Home page</h3>
 		<p id="msg">Login Failed!!<br>Wrong Username or Password</p><br>
+		<div class="ent">
+		<%=request.getParameter("entry")%>
+		</div>
+		<br>
 		<p>Please Login in to continue</p><br>
 		<div class="ent">
 		<form action="dashboard" method="post">
