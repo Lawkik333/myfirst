@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 
 
 @SuppressWarnings("serial")
-public class dashb extends HttpServlet
+public class Dashb extends HttpServlet
 {
 	public String add(String x,String y)
 	{

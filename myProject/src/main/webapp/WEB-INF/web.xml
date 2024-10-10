@@ -11,7 +11,7 @@
   </welcome-file-list>
   <servlet>
     <servlet-name>das</servlet-name>
-    <servlet-class>com.finalcut.dashb</servlet-class>
+    <servlet-class>com.finalcut.Dashb</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>das</servlet-name>
